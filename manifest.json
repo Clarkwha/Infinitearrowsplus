@@ -1,0 +1,9 @@
+{
+  "name": "InfiniteArrowsPlus",
+  "description": "Prevents arrows from being consumed when firing bows in Valheim.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Clarkewha/Infinitearrowsplus",
+  "dependencies": [
+    
+  ]
+}

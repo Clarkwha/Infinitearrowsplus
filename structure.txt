@@ -1,0 +1,58 @@
+Folder PATH listing for volume Data
+Volume serial number is 1D31-4B30
+D:.
+¦   build_and_deploy.bat
+¦   generate_structure.bat
+¦   global.json
+¦   icon.png.png
+¦   InfiniteArrowsPlus.cs
+¦   InfiniteArrowsPlus.csproj
+¦   manifest.json
+¦   README.md
+¦   structure.txt
+¦   
++---bin
+¦   +---Release
+¦       +---netstandard2.1
+¦               0Harmony.dll
+¦               assembly_valheim.dll
+¦               BepInEx.dll
+¦               InfiniteArrowsPlus.deps.json
+¦               InfiniteArrowsPlus.dll
+¦               InfiniteArrowsPlus.pdb
+¦               UnityEngine.CoreModule.dll
+¦               UnityEngine.dll
+¦               
++---lib
+¦       0Harmony.dll
+¦       assembly_valheim.dll
+¦       BepInEx.dll
+¦       UnityEngine.CoreModule.dll
+¦       UnityEngine.dll
+¦       
++---obj
+    ¦   InfiniteArrowsPlus.csproj.nuget.dgspec.json
+    ¦   InfiniteArrowsPlus.csproj.nuget.g.props
+    ¦   InfiniteArrowsPlus.csproj.nuget.g.targets
+    ¦   project.assets.json
+    ¦   project.nuget.cache
+    ¦   
+    +---Debug
+    ¦   +---netstandard2.1
+    ¦           InfiniteArrowsPlus.assets.cache
+    ¦           InfiniteArrowsPlus.csproj.FileListAbsolute.txt
+    ¦           
+    +---Release
+        +---netstandard2.1
+                .NETStandard,Version=v2.1.AssemblyAttributes.cs
+                InfiniteArrowsPlus.AssemblyInfo.cs
+                InfiniteArrowsPlus.AssemblyInfoInputs.cache
+                InfiniteArrowsPlus.assets.cache
+                InfiniteArrowsPlus.csproj.AssemblyReference.cache
+                InfiniteArrowsPlus.csproj.CopyComplete
+                InfiniteArrowsPlus.csproj.CoreCompileInputs.cache
+                InfiniteArrowsPlus.csproj.FileListAbsolute.txt
+                InfiniteArrowsPlus.dll
+                InfiniteArrowsPlus.GeneratedMSBuildEditorConfig.editorconfig
+                InfiniteArrowsPlus.pdb
+                
